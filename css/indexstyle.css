@@ -78,10 +78,10 @@
 		background-color: #cb3ce8;
 	}
 	.articleheader::first-letter
-{
-    font-size: 200%;
-    color: rgb(234, 1, 149);
-}
+	{
+    		font-size: 200%;
+    		color: rgb(234, 1, 149);
+	}
 	.article .articleheader
 	{
 		text-transform: uppercase;
