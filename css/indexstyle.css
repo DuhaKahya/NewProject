@@ -1,3 +1,8 @@
+	@font-face
+{
+	font-family: Notable;
+	src: url(../font/notable/Notable-Regular.ttf);
+}
 	body
 	{
 		display: flex;
@@ -69,7 +74,6 @@
 		font-style: italic;
 		float: left;
 		font-family: Notable;
-		src: url(../font/notable/Notable-Regular.ttf);
 		color: #FFC72B;
 	}
 	.paragraphfooter , h2
